@@ -1,2 +1,0 @@
-# test
-Test using Nextjs
